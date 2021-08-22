@@ -1,7 +1,7 @@
 # Amazon Vine Analysis
 
 ## Overview
-This project examines the concept of Big Data where Pyspark will be utilized within Google Colab. Amazon's Vine data will be examined. There are insights into paid and unpaid reviews in this data. The purpose is to determine return on investment or if the difference was negligible. 
+This project examines the concept of Big Data where Pyspark will be utilized within Google Colab with Amazon's Vine dataset (specifically insights into paid and unpaid reviews). 
 ![image](https://github.com/codepast12/amazon_vine_analysis/blob/main/Resources/overview.png)
 
 ## Results
